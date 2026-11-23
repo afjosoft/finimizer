@@ -1,0 +1,4 @@
+orlab>=0.10
+numpy
+scipy>=1.9
+pandas
